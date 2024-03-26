@@ -35,7 +35,7 @@ redirect_from:
 <body>
     <div class="container">
         <div class="text">
-              <p>I am an Assistant Researcher in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. My supervisor is <a href='https://cs.nju.edu.cn/'>Shen-Huan Lyu</a>.<br><br>
+              <p>I am a postgraduate in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. My supervisor is <a href='https://cs.nju.edu.cn/'>Shen-Huan Lyu</a>.<br><br>
               My research interest includes <b>ensemble learning</b> and <b>learning theory</b>.<br><br></p>
         </div>
         <div class="image">
