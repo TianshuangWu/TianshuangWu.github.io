@@ -35,7 +35,7 @@ redirect_from:
 <body>
     <div class="container">
         <div class="text">
-              <p>I am a postgraduate in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. My supervisor is <a href='https://cs.nju.edu.cn/'>Shen-Huan Lyu</a>.<br><br>
+              <p>I am a postgraduate in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. I am honored to be under the guidance of Professor Bao-Liu Ye and <a href='https://lyushenhuan.github.io/'>Shen-Huan Lyu</a>. Before that, I received my B.Sc. degree from <a href='https://scs.nuist.edu.cn/main.htm'>the School of Computer Science、Cyber Science and Engineering</a> in <a href='https://www.nuist.edu.cn/main.htm'>Nanjing University of Information Science & Technology</a> in Jun.2023.<br><br>
               My research interest includes <b>ensemble learning</b> and <b>learning theory</b>.<br><br></p>
         </div>
         <div class="image">
@@ -62,7 +62,7 @@ redirect_from:
 -
 
 # 📖 Educations
-- *2023.09 - *, MA.Sc. in Electronic & Information Engineering, Hohai University (HHU) 
+- *2023.09 - now*, MA.Sc. in Electronic & Information Engineering, Hohai University (HHU) 
 - *2019.09 - 2023.06*, B.Sc. in Information Security, Nanjing University of Information Science & Technology (NUIST)
 
 # 💬 Invited Talks
