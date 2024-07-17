@@ -56,10 +56,10 @@ redirect_from:
 - 
 
 # 🎖 Honors and Awards
--*2021-2023* The school Scholarship in Nanjing University of Information Science & Technology
--*2021-2022* Excellent student cadre of the school
--*2021-2022* Merit student of the school
--*2019* The first prize of the Challenge Cup China College Students Business Plan Competition
+-*2021-2023* The school Scholarship in Nanjing University of Information Science & Technology.
+-*2021-2022* Excellent student cadre of the school.
+-*2021-2022* Merit student of the school.
+-*2019* The first prize of the Challenge Cup China College Students Business Plan Competition.
 
 # ✨ Academic Service
 -
