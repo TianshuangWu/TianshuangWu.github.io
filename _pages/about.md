@@ -36,7 +36,7 @@ redirect_from:
     <div class="container">
         <div class="text">
               <p>I am a postgraduate in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. I am honored to be under the guidance of Professor Bao-Liu Ye and <a href='https://lyushenhuan.github.io/'>Shen-Huan Lyu</a>. Before that, I received my B.Sc. degree from <a href='https://scs.nuist.edu.cn/main.htm'>the School of Computer Science、Cyber Science and Engineering</a> in <a href='https://www.nuist.edu.cn/main.htm'>Nanjing University of Information Science & Technology</a> in Jun.2023.<br><br>
-              My research interest includes <b>ensemble learning</b> and <b>learning theory</b>.<br><br></p>
+              My graduate research focused on <b>deep learning model compression</b>, which aims to reduce the size of deep neural network models so that they can run on devices with limited computational resources, such as mobile devices or embedded systems. This process involves reducing the storage requirements of the model and improving its execution speed, while trying to maintain the performance of the model. Especially in the application scenarios of medical, finance and other fields, when dealing with sensitive data (such as disease diagnosis and treatment information in medical data or bank account information, investment and consumption records in commercial data), the number of accessible samples is limited due to the needs of privacy protection, which brings a challenge of how to compress the model in the case of <b>few shot</b> while ensuring the performance of the model.<br><br></p>
         </div>
         <div class="image">
             <img src="images/hhu.svg" alt='sym' width="60%">
@@ -48,7 +48,7 @@ redirect_from:
 # 🔥 News
 -
 
-#  👨‍💻 Students
+#  👨‍💻 Projects
 -
 
 
