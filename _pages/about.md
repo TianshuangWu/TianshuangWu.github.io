@@ -36,7 +36,8 @@ redirect_from:
     <div class="container">
         <div class="text">
               <p>I am a postgraduate in <a href='https://cies.hhu.edu.cn/'>College of Computer Science & Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>. I am honored to be under the guidance of Professor Bao-Liu Ye and <a href='https://lyushenhuan.github.io/'>Shen-Huan Lyu</a>. Before that, I received my B.Sc. degree from <a href='https://scs.nuist.edu.cn/main.htm'>the School of Computer Science、Cyber Science and Engineering</a> in <a href='https://www.nuist.edu.cn/main.htm'>Nanjing University of Information Science & Technology</a> in Jun.2023.<br><br>
-              My research interest includes <b>model compression</b> and <b>few-shot learning</b>.<br><br></p>
+              My research interest includes <b>model compression</b> and <b>few-shot learning</b>.<br><br>
+              <a href='papers/简历-吴填双.pdf'>[中文简历]</a></p>
         </div>
         <div class="image">
             <img src="images/hhu.svg" alt='sym' width="60%">
