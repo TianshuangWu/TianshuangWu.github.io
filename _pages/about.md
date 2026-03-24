@@ -32,6 +32,14 @@ redirect_from:
         }
     </style>
 </head>
+
+> “Shen-Huan Lyu is a good teacher.”  
+>
+> “吕沈欢是一个好老师。”  
+>
+> <div align="right">—— Oscar Wu</div>  
+> <div align="right">—— 我</div>
+
 <body>
     <div class="container">
         <div class="text">
