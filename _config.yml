@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tian-shuang Wu"
-  avatar           : "avatar2.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "Hohai University"
   location         : "Nanjing, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TianshuangWu"# e.g., "github username"
+  github           : "TianshuangWu"
   google_plus      :
   keybase          :
   instagram        :
