@@ -35,9 +35,9 @@ redirect_from:
 
 > “Shen-Huan Lyu is a good teacher.”  
 >
-> “吕沈欢是一个好老师。”  
+> “吕沈欢是一位好老师。”  
 >
-> <div align="right">—— Oscar Wu</div>  
+> <div align="right">—— Tian-Shuang Wu</div>  
 > <div align="right">—— 我</div>
 
 <body>
@@ -65,26 +65,28 @@ redirect_from:
 - <b>Shark Attack Prediction</b> The Shark Attack Prediction project utilizes Jupyter Notebook to predict shark attacks through data analysis and machine learning techniques. The project collects and processes historical data, performs exploratory data analysis and feature engineering, trains and evaluates models using a variety of machine learning algorithms, and ultimately makes predictions and visualizations on new data. The project aims to identify the key factors affecting shark attacks and help relevant departments and individuals to take preventive measures in advance to reduce safety risks in Marine activities. [[code]](https://github.com/TianshuangWu/SharkAttack)
 
 # 📝 Publications 
+
+- [[PRL 2026]](https://www.sciencedirect.com/science/article/abs/pii/S016786552600022X) Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. [[paper]](papers/wu2026compressing.pdf) [[bib]](papers/wu2026compressing.html)<br>
+**Tian-Shuang Wu**, Shen-Huan Lyu<sup>#</sup>, Yanyan Wang<sup>#</sup>, Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
+Pattern Recognition Letters, 201:117-124, 2026. **(CCF C, CAS Q3)**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/chen2026improving.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ---
 
 - [[PR 2026]](https://authors.elsevier.com/sd/article/S0031-3203(25)01674-7) Improving Multi-Label Contrastive Learning by Leveraging Label Distribution. [[paper]](papers/chen2026improving.pdf) [[bib]](papers/chen2026improving.html)<br>
-Ning Chen, **Shen-Huan Lyu**<sup>#</sup>, Tian-Shuang Wu, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
+Ning Chen, Shen-Huan Lyu<sup>#</sup>, **Tian-Shuang Wu**, Yanyan Wang, and Bin Tang. (\# indicates correspondence.)<br> 
 Pattern Recognition, 174:113011, 2026. **(CCF B, CAS Q1)**
 </div>
 </div>
 
-- [[PRL 2026]](https://www.sciencedirect.com/science/article/abs/pii/S016786552600022X) Compressing Model with Few Class-Imbalance Samples: An Out-of-Distribution Expedition. [[paper]](papers/wu2026compressing.pdf) [[bib]](papers/wu2026compressing.html)<br>
-Tian-Shuang Wu, **Shen-Huan Lyu**<sup>#</sup>, Yanyan Wang<sup>#</sup>, Ning Chen, Zhihao Qu, and Baoliu Ye. (\# indicates correspondence.)<br> 
-Pattern Recognition Letters, 201:117-124, 2026. **(CCF C, CAS Q3)**
-
 
 
 # 🎖 Honors and Awards
-- *2021-2023* The school Scholarship in Nanjing University of Information Science & Technology.
-- *2021-2022* Excellent student cadre of the school.
-- *2021-2022* Merit student of the school.
+- *2023&2025* Academic Scholarship, Hohai University
+- *2021-2023* The School Scholarship, Nanjing University of Information Science & Technology.
+- *2021-2022* Excellent Student Cadre of the School.
+- *2021-2022* Merit Student of the School.
 - *2019* The first prize of the Challenge Cup China College Students Business Plan Competition.
 
 # ✨ Academic Service
