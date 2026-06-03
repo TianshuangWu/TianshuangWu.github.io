@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tian-shuang Wu (吴填双)"
+title                    : "Tian-Shuang Wu (吴填双)"
 description              : "Postgraduate"
 repository               : "TianshuangWu/TianshuangWu.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tian-shuang Wu"
+  name             : "Tian-Shuang Wu"
   avatar           : "images/avatar2.jpg"
   bio              : "Hohai University"
   location         : "Nanjing, China"
